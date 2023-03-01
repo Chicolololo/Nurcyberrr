@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-image: url("./img/fondec2.avif");
+    
+}
+
+::placeholder {
+    text-align: center;
+}
+
+input, textarea, select, option {
+    border-radius: 5px;
+    border: 2px solid white;
+}
